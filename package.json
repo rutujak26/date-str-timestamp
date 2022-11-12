@@ -1,0 +1,22 @@
+{
+  "name": "date-str-timestamp",
+  "version": "1.0.0",
+  "description": "String date to UNIX timestamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutujak26/date-str-timestamp.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "rutujak26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rutujak26/date-str-timestamp/issues"
+  },
+  "homepage": "https://github.com/rutujak26/date-str-timestamp#readme"
+}
