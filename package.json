@@ -1,6 +1,6 @@
 {
   "name": "date-str-timestamp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "String date to UNIX timestamp",
   "main": "index.js",
   "scripts": {
