@@ -1,5 +1,7 @@
 # date-str-timestamp
 
+[!](https://github.com/rutujak26/date-str-timestamp/actions/workflows/tests.yml/badge.svg)
+
 #### Convert date in `DD/MM/YYYY` string format to UNIX timestamp
 Install using `npm i date-str-timestamp`
 
