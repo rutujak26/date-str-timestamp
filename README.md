@@ -19,5 +19,5 @@ console.log(timestamp) // Output should be 1668902400
 const {timestampToDate} = require('date-str-timestamp')
 timestamp = 1668902400
 date = timestampToDate(timestamp)
-console.log(date)
+console.log(date) // Output should be '20/11/2022'
 ```
